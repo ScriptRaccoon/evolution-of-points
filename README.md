@@ -2,7 +2,7 @@
 
 This is a demonstration of an evolutionary algorithm.
 
-Demo: https://rvfr9.csb.app/
+Demo: https://rvfr9.codesandbox.io/
 
 ![Screenshot](screenshot.png)
 
